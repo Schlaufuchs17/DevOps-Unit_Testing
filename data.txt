@@ -1,0 +1,5 @@
+consola
+videojuego
+servicio
+periférico
+RESERVA
