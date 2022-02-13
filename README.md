@@ -1,6 +1,4 @@
 # DevOps---Unit-Testing-Tarea-2-
-Tarea 2 de DevOps
-Enunciado
 
 Se pide al alumno extender la aplicación web creada en el anterior ejercicio:
 
@@ -18,7 +16,6 @@ Python
 
 Existe la librería coverage (Enlaces a un sitio externo.), muy sencilla de usar y que funciona con los runners habituales. Un ejemplo con 'py.test':
 
-Captura 11-1.PNG
 Java
 
 Se puede emplear JaCoCo (Enlaces a un sitio externo.), fácilmente configurable en Maven y Gradle, que permite elaborar reportes en formato HTML, al igual que la herramienta anterior.
